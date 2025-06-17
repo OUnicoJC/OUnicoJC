@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to code.
 - 📫 How to reach me: juliocesarsistemasinf@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Current hyperfocus: Baldur's Gate 3
 - Will update this in the future!
 
 <!---
